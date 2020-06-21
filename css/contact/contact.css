@@ -1,0 +1,66 @@
+.container{
+font-family: arial narrow;
+color:white;
+width:40%;
+float:left;
+padding:20px;
+height:365px;
+border: 2px solid #98B3F5;
+background: #19334d;
+margin: 30px
+}
+
+form{
+font-family: arial narrow;
+color:white;
+width:40%;
+float:right;
+padding:20px;
+height:340px;
+border: 2px solid #98B3F5;
+background: #19334d;
+margin: 30px
+}
+
+input[type=text]{
+ padding: 20px;
+ background-color: #f1f1f1;
+  width: 60%;
+  padding: 12px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Add margins to the checkbox */
+input[type=checkbox] {
+  margin-top: 16px;
+}
+
+/* Style the submit button */
+input[type=submit] {
+  background-color: skyblue;
+  color: black;
+  border: none;
+  width: 60%;
+  padding: 15px;
+  margin: 8px 0;
+  display: block;
+  box-sizing: border-box;
+}
+
+input[type=submit]:hover {
+  opacity: 0.8;
+  cursor:pointer;
+  background: white;
+}
+
+h2{
+font-size: 25px;
+color:white;
+font-family:arial narrow;
+}
+
+
+

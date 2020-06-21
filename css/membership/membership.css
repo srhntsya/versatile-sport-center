@@ -1,0 +1,73 @@
+#login h1{
+text-align: center;
+color: skyblue;
+font-family: Verdana;
+font size: 80px;
+}
+
+#login h2{
+text-align: center;
+color: white;
+font-family: Sans-serif;
+font size: 35px;
+}
+
+#login input{
+display: block;
+width:320px;
+height:40px;
+padding: 10px;
+font-size: 14px;
+font-family:sans-serif;
+color:white;
+background: rgba(0,0,0,0.3);
+outline:none;
+border: 1px solid rgba(0,0,0,0.3);
+border-radius: 5px;
+box-shadow: inset 0px -5px 45 px rgba (100,100,100,0.2), 0px 1px 1px rgba(255, 255,255,0.2);
+margin-bottom: 10px;
+}
+
+#form{
+position:center;
+}
+
+button {
+display: block;
+width:320px;
+height:40px;
+padding: 10px;
+font-size: 14px;
+font-family:sans-serif;
+color:white;
+background: skyblue;
+outline:none;
+border: 1px solid rgba(0,0,0,0.3);
+border-radius: 5px;
+box-shadow: inset 0px -5px 45 px rgba (100,100,100,0.2), 0px 1px 1px rgba(255, 255,255,0.2);
+margin-bottom: 10px;
+transition: 1s ease;
+}
+
+button:hover{
+background:black;
+cursor:pointer;
+}
+
+.container{
+font-family: arial narrow;
+width:50%;
+float:left;
+padding:10px;
+height:200px;
+border: 2px solid black;
+background: #99bbff;
+margin: 25px
+
+}
+
+
+.h1{
+text-align: center;
+font-family: verdana;
+}
